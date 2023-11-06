@@ -1,0 +1,91 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* still need to fix issue with boxes centering left on some sizes */
+.box {
+    background-color: #b86cf7;
+}
+
+ h1, h2 {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+p, h3,h4,h5 {
+	font-family: 'Gabirito' serif;
+	font-size: 15px;
+}
+.spacer{
+	background-color: black;
+}
+
+#main-header {
+    background-color: rgb(129, 146, 255);
+    position:sticky;
+    top:0px;
+    height:100px;
+ }
+ 
+ #main-nav ul {
+    margin-top:10px;
+    margin-left:30px;
+    padding:0;
+    
+ }
+ 
+ 
+ #main-nav ul li {
+    display: inline;
+    margin-right:28px;
+    
+    
+ }
+ 
+ #main-nav ul li:last-child {
+ margin-right:0px;
+ 
+ }
+ 
+ #main-nav ul li a {
+    
+    font-size: 20px;
+    font-family: 'Gabirito', serif;
+    text-decoration: none;
+    color: #000000;
+
+display: block;
+
+padding: 10px 0 10px 0;
+text-align: center;
+ }
+ 
+ #main-nav ul li a:hover {
+    padding-bottom:8px;
+    border-bottom: 3px solid #000000;
+ }
+ 
+ /* apply to the element that has a class of 'active' */
+ #main-nav ul li a :active {
+
+    padding-bottom:2px;
+    border-bottom: 3px solid #000000;
+ }
+
+#intro {
+    background-color: #000000;
+}
+
+#vid {
+    background-color: #000000;
+}
+
+#gallery {
+    background-color: rgb(129, 146, 255);
+}
+
+#social {
+    background-color: rgb(129, 146, 255);
+}
