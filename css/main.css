@@ -30,15 +30,15 @@ p, h3,h4,h5 {
  }
  
  #main-nav ul {
-    margin-top:10px;
-    margin-left:30px;
+    margin-top:5px;
+    margin-left:10px;
     padding:0;
     
  }
  
  
  #main-nav ul li {
-    display: inline;
+    display: inline-block;
     margin-right:28px;
     
     
