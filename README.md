@@ -1,5 +1,8 @@
 # wall_ethan_earbuds
 
+## Description
+
+The type of earbuds that i have designed are based around standrd style earbuds like airpods, with my themeing being around a deep blue, silver and black coloring.
 
 # license
 
