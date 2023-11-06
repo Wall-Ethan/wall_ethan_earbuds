@@ -19,11 +19,11 @@ p, h3,h4,h5 {
 	font-size: 15px;
 }
 .spacer{
-	background-color: black;
+	background-color: rgb(0, 0, 0);
 }
 
 #main-header {
-    background-color: rgb(129, 146, 255);
+    background-color: rgb(6, 32, 204);
     position:sticky;
     top:0px;
     height:100px;
@@ -54,7 +54,7 @@ p, h3,h4,h5 {
     font-size: 20px;
     font-family: 'Gabirito', serif;
     text-decoration: none;
-    color: #000000;
+    color: rgb(6, 32, 204);
 
 display: block;
 
@@ -64,18 +64,18 @@ text-align: center;
  
  #main-nav ul li a:hover {
     padding-bottom:8px;
-    border-bottom: 3px solid #000000;
+    border-bottom: 3px solid rgb(45, 111, 209);
  }
  
  /* apply to the element that has a class of 'active' */
  #main-nav ul li a :active {
 
     padding-bottom:2px;
-    border-bottom: 3px solid #000000;
+    border-bottom: 3px solid rgb(0, 0, 0);
  }
 
 #intro {
-    background-color: #000000;
+    background-color:rgb(6, 32, 204);
 }
 
 #vid {
@@ -83,9 +83,13 @@ text-align: center;
 }
 
 #gallery {
-    background-color: rgb(129, 146, 255);
+    background-color: rgb(6, 32, 204);
 }
 
-#social {
-    background-color: rgb(129, 146, 255);
+.htop{
+    height: 250px;
+}
+
+.hlogo{
+    height: 70px;
 }

@@ -198,7 +198,13 @@ html {
     display: none;
   }
 
+  #ar-text {
+    display: none;
+  } 
   
+  #product-des {
+    display: none;
+  }
   
 
 
@@ -213,10 +219,6 @@ html {
 
 .col-span-2{
     height: 250px;
-}
-
-#ar-text {
-    display: none;
 }
 
 
@@ -426,6 +428,10 @@ html {
     }
 
     #ar-text {
+        display: none;
+    }
+
+    #product-des {
         display: none;
     }
 
@@ -650,6 +656,10 @@ html {
         display: block;
     }
 
+    #product-des {
+        display: block;
+    }
+
   }
 
 
@@ -870,6 +880,10 @@ html {
     }
 
     #ar-text {
+        display: block;
+    }
+
+    #product-des {
         display: block;
     }
    
