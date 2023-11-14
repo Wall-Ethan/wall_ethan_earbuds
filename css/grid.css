@@ -9,7 +9,9 @@
     5.  XL Grid
 
  */
-
+ img, embed, object, video, picture {
+    max-width: 100%; 
+  }
 
 /* 1. ---General Grid Styles--- */
 
